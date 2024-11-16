@@ -1,3 +1,3 @@
-ARRAY AND STRING IN C/C++
+__ARRAY AND STRING IN C/C++__
 
-práticas iniciais na disciplina de Estrutura de Dados 
+Práticas iniciais na disciplina de Estrutura de Dados com vetores e caracteres.
